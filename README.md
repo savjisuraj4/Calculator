@@ -11,9 +11,9 @@ Calculator is desktop app created in python and it is user friendly.This app can
 
 <p id="img_cont">
 	<img src="/1.png" width = "500" height= "500" hspace=40>
+	<p></p>
 	<img src="/2.png" width = "500" height= "500" hspace=40>
 	<img src="/3.png" width = "500" height= "500" hspace=40>
-
 </p>
 
 
