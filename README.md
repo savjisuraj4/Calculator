@@ -1,6 +1,6 @@
 # Calculator 
 
-Calculator is desktop app developed using the tkinter in python
+Calculator is desktop app developed using the tkinter in python.
 
 ## Introduction
 
